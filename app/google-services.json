@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "666043812252",
+    "project_id": "fir-firestoref55122068",
+    "storage_bucket": "fir-firestoref55122068.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666043812252:android:8323fd1ba78aff70332059",
+        "android_client_info": {
+          "package_name": "com.munirah.firebasefirestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqsXSjvK0HbGZPNYJj39fDAv0T1UnFO8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
